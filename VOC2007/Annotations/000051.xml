@@ -1,0 +1,29 @@
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>000051.jpg</filename>
+  <size>
+    <width>1080</width>
+    <height>1920</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>clip</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>328</xmin>
+      <ymin>738</ymin>
+      <xmax>497</xmax>
+      <ymax>878</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clip</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>546</xmin>
+      <ymin>65</ymin>
+      <xmax>610</xmax>
+      <ymax>144</ymax>
+    </bndbox>
+  </object>
+</annotation>
